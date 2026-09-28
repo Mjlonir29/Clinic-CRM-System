@@ -14,7 +14,7 @@ An enterprise-grade, full-featured **Healthcare & Clinic Customer Relationship M
 
 | Member Name | Role / Contribution | GitHub / Profile |
 | :--- | :--- | :--- |
-| **Rahul (Mjlonir29)** | Lead Developer & Architect | [@Mjlonir29](https://github.com/Mjlonir29) |
+| **SUMIT MALVIYA (Mjlonir29)** | Lead Developer & Architect | [@Mjlonir29](https://github.com/Mjlonir29) |
 | **AGNIBHA DEY** | Team Member / Full-Stack Developer | Team Contributor |
 | **RANJAN MANDAL** | Team Member / Full-Stack Developer | Team Contributor |
 
@@ -162,4 +162,4 @@ Clinic-CRM-System/
 
 This project is open-sourced under the [MIT License](LICENSE).
 
-Developed with ❤️ by **Mjlonir29**, **AGNIBHA DEY**, and **RANJAN MANDAL**.
+Developed with ❤️ by **SUMIT MALVIYA**, **AGNIBHA DEY**, and **RANJAN MANDAL**.
