@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="ektaGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#006654" />
+      <stop offset="100%" stop-color="#14b8a6" />
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="28" fill="url(#ektaGrad)" />
+  <!-- Medical Cross -->
+  <rect x="54" y="36" width="20" height="56" rx="6" fill="#ffffff" />
+  <rect x="36" y="54" width="56" height="20" rx="6" fill="#ffffff" />
+  <!-- Subtle E emblem curve inside cross -->
+  <circle cx="64" cy="64" r="8" fill="#006654" />
+  <path d="M62 60 H66 M62 64 H65 M62 68 H66" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" />
+</svg>
